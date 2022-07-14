@@ -8,6 +8,7 @@
     Contains Bugs for Yalla Kora.
     
 3- 'Third Part' Folder :
+
     Contains Project folder "Facebook_Task" for Facebook login and Registration (Automated tests for facebook registration and login scenarios )
     
     Contains file for short explanation of the provided solution
